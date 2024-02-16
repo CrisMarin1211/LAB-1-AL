@@ -1,0 +1,21 @@
+{
+  "name": "lab-1-al",
+  "version": "1.0.0",
+  "description": "Este es el primer laboratorio de Algoritmos en la que trabajamos con Node js y dependendencias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MathCalculateIMC"
+  ],
+  "author": "Cris Marín",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "console-emoji": "^0.0.2",
+    "i18next": "^23.8.2",
+    "i18next-fs-backend": "^2.3.1",
+    "readline-sync": "^1.4.10"
+  }
+}
